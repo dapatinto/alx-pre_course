@@ -1,2 +1,1 @@
-## This directory of git is not empty
-## Just a few update ##
+This directory of git is not empty
